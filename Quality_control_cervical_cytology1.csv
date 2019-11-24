@@ -1,6 +1,6 @@
 Age	study_gr	study_gr1	Diag_cyt	Diag_cyt_rev	SEE_01	SEE_16	SEE_18	SEE_45	Ind_biop	biop_status
-34	1	1	0	0					0	26
-31	1	1	0	0					1	23
+34	1	1	0	0	100	100	100	100	0	26
+31	1	1	0	0	0	1	1	1	1	23
 25	1	1	0	0					1	23
 33	1	1	0	0					0	23
 27	1	1	0	0					1	23
